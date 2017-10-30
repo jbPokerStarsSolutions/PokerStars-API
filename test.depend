@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1502018093 source:c:\users\bruno\desktop\poker_dll\test\main.cpp
+	<iostream>
+	"poker_dll.hpp"
+
+1501528583 c:\users\bruno\desktop\poker_dll\poker_dll.hpp
+	<stdint.h>
+
+1502021693 source:c:\users\isabe\desktop\poker_dll\test\main.cpp
+	<iostream>
+	"poker_dll.hpp"
+
+1509134816 source:c:\users\bruno\desktop\poker v2\poker_dll\test\main.cpp
+	<iostream>
+	"poker_dll.hpp"
+
+1509049156 c:\users\bruno\desktop\poker v2\poker_dll\poker_dll.hpp
+	<stdint.h>
+
+1509131987 source:c:\poker\test poker\main.cpp
+	<iostream>
+	"poker_dll.hpp"
+
+1509045556 c:\poker\test poker\include\poker_dll.hpp
+	<stdint.h>
+
