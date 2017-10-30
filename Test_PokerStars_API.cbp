@@ -7,7 +7,7 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/test" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Test_PS_API" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,7 +34,6 @@
 			<Add directory="include" />
 		</Compiler>
 		<Linker>
-			<Add library="libPoker_dll.a" />
 			<Add library="libkernel32.a" />
 			<Add library="libws2_32.a" />
 			<Add library="gdi32" />
@@ -42,6 +41,7 @@
 			<Add library="libopencv_imgproc249.dll.a" />
 			<Add library="libopencv_highgui249.dll.a" />
 			<Add library="lib/IPHlpApi.Lib" />
+			<Add library="bin/Debug/libPoker_dll.dll" />
 			<Add directory="bin/Debug" />
 			<Add directory="lib" />
 		</Linker>
