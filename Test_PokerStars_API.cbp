@@ -40,8 +40,11 @@
 			<Add library="libopencv_core249.dll.a" />
 			<Add library="libopencv_imgproc249.dll.a" />
 			<Add library="libopencv_highgui249.dll.a" />
+<<<<<<< HEAD:Test_PokerStars_API.cbp
 			<Add library="lib/IPHlpApi.Lib" />
 			<Add library="bin/Debug/libPoker_dll.dll" />
+=======
+>>>>>>> parent of 5ae6fea... Poker Stars API:test.cbp
 			<Add directory="bin/Debug" />
 			<Add directory="lib" />
 		</Linker>
