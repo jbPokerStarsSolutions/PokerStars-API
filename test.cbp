@@ -41,6 +41,7 @@
 			<Add library="libopencv_core249.dll.a" />
 			<Add library="libopencv_imgproc249.dll.a" />
 			<Add library="libopencv_highgui249.dll.a" />
+			<Add library="lib/IPHlpApi.Lib" />
 			<Add directory="bin/Debug" />
 			<Add directory="lib" />
 		</Linker>

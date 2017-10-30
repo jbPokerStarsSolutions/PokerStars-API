@@ -24,3 +24,10 @@
 1509045556 c:\poker\test poker\include\poker_dll.hpp
 	<stdint.h>
 
+1509366138 source:c:\poker\pokerstars api\main.cpp
+	<iostream>
+	"poker_dll.hpp"
+
+1509045556 c:\poker\pokerstars api\include\poker_dll.hpp
+	<stdint.h>
+
